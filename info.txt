@@ -1,0 +1,4 @@
+Dataset download:
+https://www.nist.gov/itl/products-and-services/emnist-dataset
+
+Extract the master folder and then extract all the files that contain 'byclass' in the file name
